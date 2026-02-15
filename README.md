@@ -7,10 +7,13 @@ I'm a data professional with 3+ years of experience delivering end-to-end busine
 ---
 ## 🎯 **Professional Focus**
 
-- **End-to-End Analytics:** Requirements → Data Collection → Analysis → Visualization → Stakeholder Reporting
-- **People & Business Analytics:** Employee sentiment analysis, survey design, operational efficiency insights
-- **Data Storytelling:** Translating complex findings into actionable business recommendations
-- **Process Optimization:** Automating manual workflows and improving data efficiency
+| **Business Intelligence** | **Data Analytics** | **Business Analysis** |
+|---------------------------|---------------------|------------------------|
+| KPI Development & Tracking | Statistical Analysis | Stakeholder Requirements Gathering |
+| Data-Driven Decision Support | Survey Design & Analytics | Cross-Functional Collaboration |
+| Executive Dashboards | Trend Analysis & Forecasting | Process Optimisation |
+| Actionable Insights Generation | Data Visualisation | Global Stakeholder Management |
+| Comparative Analysis (YoY) | ETL Pipeline Development | Action Tracking & Accountability |
 
 ---
 ## 🛠️ **Technical Stack**
